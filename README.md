@@ -9,4 +9,9 @@ This repositories will allow you to turn on and off your Wi-Fi activity programa
 ## :heavy_check_mark: Screenshots
 Below are example screenshot on how this app works.
 
-## Start Up
+## Wi-Fi OFF
+![Screenshot_20210111-002602](https://user-images.githubusercontent.com/40444648/104128644-da2ba480-53a3-11eb-9de2-10bc25115c83.png)
+
+## Wi-Fi ON
+![Screenshot_20210111-002614](https://user-images.githubusercontent.com/40444648/104128656-e152b280-53a3-11eb-83ad-f7e8ac2b702f.png)
+
