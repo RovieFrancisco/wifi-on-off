@@ -1,5 +1,5 @@
 # WiFi-On-Off
-This repositories will allow you to turn on and off your Wi-Fi activity programatically.
+This repository will allow you to turn on and off your Wi-Fi activity programmatically.
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rovie.programmer15) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RovieFrancisco15)
